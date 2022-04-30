@@ -6,7 +6,7 @@ Problem Statement :
 Read the Employee.json from the file and print the employee details.
 
 Approach :
-Complete the following program and make sure the test case passes successfully/
+Complete the following program and make sure the test cases in TestLab001.py passes successfully/
 
 """
 
