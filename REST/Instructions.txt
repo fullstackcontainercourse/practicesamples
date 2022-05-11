@@ -1,0 +1,16 @@
+1. Download testws-1.0-SNAPSHOT.jar to your local folder.
+for example lets say to C:\RestCourse\
+
+2. Open Cmd terminal
+3. cd to the jar location folder
+> cd C:\RestCourse\
+4. To start the REST service run
+java -jar testws-1.0-SNAPSHOT.jar
+
+5. Observe the application start logs in the terminal
+like  "o.s.web.servlet.DispatcherServlet        : Completed initialization"
+
+6. Now test if the server is up by visiting this url in your browser or the rest client extension
+http://localhost:8080/employees
+
+7. Observe the response json structure.
