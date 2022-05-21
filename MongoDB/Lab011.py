@@ -6,6 +6,11 @@ from mongosetup import *
 Description : Complete the below method using MongoDB methods to insert a 'Book' document into
 'Library' Database.
 
+Points to note :
+Try to use collections.insert(dictionary) method
+The document is available only after it is inserted in the DB
+
+
 '''
 
 
